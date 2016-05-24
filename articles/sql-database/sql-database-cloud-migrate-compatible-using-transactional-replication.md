@@ -29,7 +29,7 @@ Transactional replication is a technology built-in and integrated with SQL Serve
  - SQL Server 2014 SP1 CU3 and above
  - SQL Server 2014 RTM CU10 and above
  - SQL Server 2012 SP2 CU8 and above
- - SQL Server 2013 SP3 when it will release
+ - SQL Server 2012 SP3 when it will release
 
 
 > [AZURE.IMPORTANT] You must use the latest version of SQL Server Management Studio to remain synchronized with updates to Microsoft Azure and SQL Database. Older versions of SQL Server Management Studio will not be able to set up SQL Database as a subscriber. [Update SQL Server Management Studio](https://msdn.microsoft.com/library/mt238290.aspx).
